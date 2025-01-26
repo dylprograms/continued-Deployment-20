@@ -74,4 +74,6 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Questions
 
-If you would like to contact me, please use my email or GitHub username: [dylyoungprograms](https://github.com/dylprograms), dlyoungworking@gmail.com
+If you would like to contact me, please use my email or GitHub username: [dylyoungprograms](https://github.com/dylprograms), dlyoungworking@gmail.com 
+
+Thanks!
