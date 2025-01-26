@@ -4,8 +4,8 @@
 
 A full-stack application that follows a CI/CD pipeline with GitHub Actions for testing and deployment.
 
-[Deployed-Site](https://continued-deployment-20-web-service.onrender.com)
-[github-gist]https://gist.github.com/dylprograms/d944b46250830554afd9de18b0d08910
+* [Deployed-Site](https://continued-deployment-20-web-service.onrender.com)
+* [github-gist](https://gist.github.com/dylprograms/d944b46250830554afd9de18b0d08910)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,7 +22,7 @@ A full-stack application that follows a CI/CD pipeline with GitHub Actions for t
 
 1. Clone the repository:
 
-    git clone [<repository-url>](https://github.com/dylprograms/continued-Deployment-20.git)
+    git clone https://github.com/dylprograms/continued-Deployment-20.git
 
 
 2. Navigate to the project directory:
