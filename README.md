@@ -5,6 +5,7 @@
 A full-stack application that follows a CI/CD pipeline with GitHub Actions for testing and deployment.
 
 [Deployed-Site](https://continued-deployment-20-web-service.onrender.com)
+[github-gist]https://gist.github.com/dylprograms/d944b46250830554afd9de18b0d08910
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
